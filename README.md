@@ -134,6 +134,14 @@ Open the research notebook for additional agent demos and experiments:
 ```bash
 jupyter notebook research/agent_experiment.ipynb
 ```
+
+### Update your Streamlit run configuration
+```bash
+    streamlit run app.py --server.port $PORT --server.address 0.0.0.0
+
+```
+
+
 ---
 ## Project Structure
 
