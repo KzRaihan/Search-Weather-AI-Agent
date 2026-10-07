@@ -19,7 +19,7 @@ The agent supports:
 
 <div align="center">
 
-<img src="assets/Search_Weather Agent Architecture.png" alt="banner">
+<img src="assets/Search_Weather Agent__architecture.png" alt="banner">
 
 </div>
 
